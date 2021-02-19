@@ -1,0 +1,15 @@
+.pic{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: 1px solid white;
+    float: left;
+}
+
+.parent{
+    background-color: yellow;
+    width: 50%;
+    height: 200px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
